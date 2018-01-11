@@ -9,7 +9,7 @@ this work make from node.js, express and mongodb
 
 ## Express make file
 สร้าง Express
-    express [directory project]
+1. express [directory project name]
 
 ## Install mongodb
 [Click mongodb](https://www.mongodb.com/download-center?jmp=nav#atlas)
